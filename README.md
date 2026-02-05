@@ -1,2 +1,22 @@
 # pagina-web-html-css
-Página web hecha con HTML y CSS, reflejo de mis avances en el desarrollo Frontend
+
+## Descripción
+Proyecto personal realizado para aprender y practicar los fundamentos
+de HTML y CSS, incluyendo estructura semántica y estilos básicos.
+
+## Tecnologías utilizadas
+- HTML
+- CSS
+- JS(Poco)
+
+## Qué aprendí con este proyecto
+- Flexbox y Grid
+- Organización de archivos
+- Buenas prácticas básicas
+
+## Cómo ejecutar el proyecto
+1. Descargar o clonar el repositorio.
+2. Abrir el archivo `index.html` en cualquier navegador web.
+
+## Estado del proyecto
+Finalizado
