@@ -20,3 +20,9 @@ de HTML y CSS, incluyendo estructura semántica y estilos básicos.
 
 ## Estado del proyecto
 Finalizado
+
+## Demo
+
+Vista rápida del proyecto web desarrollado con HTML y CSS.
+
+![Demo del proyecto](assets/demo.gif)
