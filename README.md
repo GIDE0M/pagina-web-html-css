@@ -1,8 +1,8 @@
 # pagina-web-html-css
 
 ## Descripción
-Proyecto personal realizado para aprender y practicar los fundamentos
-de HTML y CSS, incluyendo estructura semántica y estilos básicos.
+Desarrollo de página web estática utilizando HTML5 y CSS3, aplicando estructura semántica, 
+maquetación básica y estilos responsivos.
 
 ## Tecnologías utilizadas
 - HTML
